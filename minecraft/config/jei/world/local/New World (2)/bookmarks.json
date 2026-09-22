@@ -1,5 +1,0 @@
-[
-  {"version":2},
-  {"ingredient":{"id":"create_connected:inventory_access_port"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:gearbox"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

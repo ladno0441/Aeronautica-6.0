@@ -1,1 +1,0 @@
-# Aeronautica-6.0

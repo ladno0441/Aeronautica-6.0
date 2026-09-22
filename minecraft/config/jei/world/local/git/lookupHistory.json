@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"vista:hollow_cassette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"glaidens_radio_mod:circuit_board"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"glaidens_radio_mod:walkie_talkie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"drivebywire:wire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:viewfinder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:television"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"glaidens_radio_mod:cassette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:cassette"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

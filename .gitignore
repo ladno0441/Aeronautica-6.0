@@ -1,4 +1,29 @@
+# Файлы инстанса лаунчера (Prism/Legacy)
 Aeronautica-6.0/
 instance.cfg
 mmc-pack.json
+
+# Настройки игрока, профили и история
+minecraft/command_history.txt
+minecraft/icon.png
+minecraft/options.txt
+minecraft/optionsof.txt
+minecraft/usercache.json
+minecraft/usernamecache.json
+minecraft/ponders_watched*.json
+
+# Сохранения (миры), скриншоты и логи
 minecraft/saves/
+minecraft/screenshots/
+minecraft/logs/
+minecraft/crash-reports/
+
+# Служебные бинарники и кэш модов (Sable, C2ME, Mixin)
+minecraft/.sable/
+minecraft/.mixin.out/
+minecraft/cache/
+minecraft/downloads/
+minecraft/dynamic-resource-pack-cache/
+
+# Временные файлы KubeJS и локальные конфиги
+minecraft/local/

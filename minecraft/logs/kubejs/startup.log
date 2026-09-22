@@ -1,0 +1,15 @@
+[20:39:17] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[20:39:17] [INIT] Loaded plugins:
+[20:39:17] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[20:39:17] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[20:39:17] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[20:39:17] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[20:39:17] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[20:39:17] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:39:17] [INIT] - me.yassigame.sable_beyond.neoforge.integration.kubejs.KubeJSIntegration
+[20:39:18] [INFO] Loaded script startup_scripts:item_registry.js in 0.051 s
+[20:39:18] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[20:39:18] [INFO] Loaded script startup_scripts:main.js in 0.001 s
+[20:39:18] [INFO] Loaded 2/2 KubeJS startup scripts in 1.021 s with 0 errors and 0 warnings
+[20:39:18] [INFO] Validated 2 files in kubejs/assets/ in 1ms
+[20:39:18] [INFO] Validated 0 files in kubejs/data/ in 0ms

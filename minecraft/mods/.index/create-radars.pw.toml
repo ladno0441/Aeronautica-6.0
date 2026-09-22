@@ -1,0 +1,17 @@
+filename = 'create_radar-0.4.9.4-1.21.1.jar'
+name = 'Create: Radars'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'create_radar-0.4.9.4-1.21.1.jar'
+
+[download]
+hash = '9726fced4bf86c9e2c0ea09b35bc39ed3ac007b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8227753
+project-id = 1152836

@@ -1,0 +1,17 @@
+filename = 'ropefix-1.5.0.jar'
+name = 'Rope Structure Fix'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.0'
+
+[download]
+hash = '9477f563bc60d64ae18dac853b2629c36d166121935cd1522884900c2b7b1a043eedc186406b1579f84287272d3080d32de9111c1b27b770bbaeb1170ebf5ead'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DiyKT6tb/versions/UvG3RnjD/ropefix-1.5.0.jar'
+
+[update.modrinth]
+mod-id = 'DiyKT6tb'
+version = 'UvG3RnjD'
